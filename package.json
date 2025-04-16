@@ -1,0 +1,12 @@
+{
+  "name": "leetcode-75",
+  "version": "1.0.0",
+  "description": "A repository containing solutions to all 75 algorithms from the 75 LeetCode Challenge.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
