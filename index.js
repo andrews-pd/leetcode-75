@@ -1,4 +1,3 @@
-const { gcdOfStrings, mergeAlternately } = require("./Array_String");
+const { findDifference } = require("./HashMap_Set");
 
-console.log("Resultado gcdOfStrings: ", gcdOfStrings("ABCABC", "ABC"));
-console.log("Resultado mergeAlternately: ", mergeAlternately("abc", "pqr"));
+console.log("Resultado findDifference: ", findDifference([1,2,3], [2,4,6]));
